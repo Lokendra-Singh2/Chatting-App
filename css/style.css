@@ -1,0 +1,53 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 55px;
+    height: 55px;
+}
+
+.container{
+    max-width: 600px;
+    background-color: greenyellow;
+    margin: auto;
+    height: 75vh;
+
+}
+
+.message{
+    background-color: rgb(206, 194, 194);
+    width: 24%;
+    padding: 8px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+.left{
+    float: left;
+    clear: both;
+}
+
+.right{
+    float: right;
+    clear: both;
+}
+
+#send-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    height: 10vh;
+    width: 100%;
+}
+
+#messageInput{
+    padding: 5px;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.btn{
+    padding: 5px;
+    background-color: #c396c3;
+}
